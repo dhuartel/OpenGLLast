@@ -1,0 +1,28 @@
+﻿Build started 24/05/2016 21:01:28.
+     1>Project "C:\Users\danielhl1\Downloads\EjOpenGL_qtree_vbo_frust\e01 (qtree+vbo)\TresD.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _VC80_UPGRADE=0x0710 /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt /D "_CRT_SECURE_NO_DEPRECATE" cQuadtreeNode.cpp
+         cQuadtreeNode.cpp
+     1>c:\users\danielhl1\downloads\ejopengl_qtree_vbo_frust\e01 (qtree+vbo)\cquadtreenode.cpp(135): warning C4101: 'i' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"Debug\TresD.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Users\danielhl1\Downloads\EjOpenGL_qtree_vbo_frust\e01 (qtree+vbo)\glew-1.13.0\lib" glew32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"Debug\TresD.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE:NO /IMPLIB:"Debug\TresD.lib" /MACHINE:X86 /SAFESEH:NO Debug\cAABB.obj
+         Debug\cCamera.obj
+         Debug\cFrustum.obj
+         Debug\cInput.obj
+         Debug\cLog.obj
+         Debug\cPlayer.obj
+         Debug\cQuadtree.obj
+         Debug\cQuadtreeNode.obj
+         Debug\cRect.obj
+         Debug\cScene.obj
+         Debug\cSkyBox.obj
+         Debug\cTerrain.obj
+         Debug\cTexture.obj
+         Debug\cVector3D.obj
+         Debug\main.obj
+         TresD.vcxproj -> C:\Users\danielhl1\Downloads\EjOpenGL_qtree_vbo_frust\e01 (qtree+vbo)\Debug\TresD.exe
+     1>Done Building Project "C:\Users\danielhl1\Downloads\EjOpenGL_qtree_vbo_frust\e01 (qtree+vbo)\TresD.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.77

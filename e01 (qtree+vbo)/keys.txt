@@ -1,0 +1,14 @@
+w: wireframe
+s: solid
+p: points
+
+f: show frustum
+F: enable frustum
+
+q: show quadtree
+a: show axis
+l: enable lighting
+
++/-: speed camera
+
+0: reset viewer position
